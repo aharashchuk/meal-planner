@@ -1,0 +1,1 @@
+import{pt as e}from"./ru-Bw8qWQEe.js";var t=e().int().min(1).max(20);function n(e){let n=t.safeParse(e.servings);return{servings:n.success?n.data:void 0}}export{n as t};

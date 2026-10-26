@@ -1,1 +1,0 @@
-import{et as e}from"./ru-C_gYKWu7.js";var t=e();function n({title:e,children:n}){return(0,t.jsxs)(`header`,{className:`flex items-center justify-between gap-4 px-4 pt-6 pb-4 md:px-8`,children:[(0,t.jsx)(`h1`,{className:`text-2xl font-semibold tracking-tight`,children:e}),n]})}export{n as t};

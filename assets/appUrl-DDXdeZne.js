@@ -1,0 +1,1 @@
+function e(e=``){return`${window.location.origin}/meal-planner/${e}`}export{e as t};
